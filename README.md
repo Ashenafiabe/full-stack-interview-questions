@@ -14880,7 +14880,7 @@ There are two possible ways to create ReactJS Components.
 1. **Functional components:** This is the simplest way to create ReactJS components. It accepts props as an Object and returns ReactJS elements. We call it as “functional” because those are pure JavaScript functions.
 ```js
 	function Greeting(props) {
-   	   return <h1> Hello, {props.message}</h1> 
+   	   return <h1> Hello, {props.message}</h1>
 	}
 ```
 
